@@ -17,9 +17,9 @@ gcc
 
 1. git clone https://github.com/neoski/libc-assembly.git
 
-2. cd lil-shell && make
+2. cd minishell && make
 
-3. `./lil-shell`
+3. `./minishell`
 
 **Author :** Sebastien S. 
 
