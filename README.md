@@ -1,5 +1,5 @@
 # minishell
-A mini valuable shell coded in C. 
+A minimum valuable shell coded in C. 
 
 <img alt="Quick minishell demo" src="https://thumbs.gfycat.com/DisguisedFrighteningDairycow-size_restricted.gif" height="370px"/>
 
