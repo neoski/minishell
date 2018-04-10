@@ -1,5 +1,5 @@
 # lil-shell
-A shell coded in C. 
+A mini valuable shell coded in C. 
 
 Builtins `cd`, `setenv`, `unsetenv`, `env`, `exit`, the pipes '|',
 the redirections `<`, `>`, `>>`, `<<`, the `;`, `aliases` 
