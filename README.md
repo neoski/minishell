@@ -1,6 +1,8 @@
 # minishell
 A mini valuable shell coded in C. 
 
+[![Quick minishell demo](https://gfycat.com/ifr/DisguisedFrighteningDairycow)]
+
 Builtins `cd`, `setenv`, `unsetenv`, `env`, `exit`, the pipes '|',
 the redirections `<`, `>`, `>>`, `<<`, the `;`, `aliases` 
 and the execution of standard commands (e.g : `ls`) are implemented.
