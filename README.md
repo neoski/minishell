@@ -1,7 +1,7 @@
 # minishell
 A mini valuable shell coded in C. 
 
-![Quick minishell demo](https://thumbs.gfycat.com/DisguisedFrighteningDairycow-size_restricted.gif)
+<img alt="Quick minishell demo" src="https://thumbs.gfycat.com/DisguisedFrighteningDairycow-size_restricted.gif" height="370px"/>
 
 Builtins `cd`, `setenv`, `unsetenv`, `env`, `exit`, the pipes '|',
 the redirections `<`, `>`, `>>`, `<<`, the `;`, `aliases` 
