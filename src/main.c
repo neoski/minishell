@@ -8,7 +8,7 @@ static int	loop(t_shell *s, char *res, int key, int i)
 {
   while (key == 0)
     {
-      my_putstr("lil_shell $> ", 1);
+      my_putstr("minishell $> ", 1);
       i = 0;
       if ((res = get_next_line(0)) != NULL)
 	{

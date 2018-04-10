@@ -2,5 +2,5 @@
 
 void	ctrlc(__attribute__((unused))int sig)
 {
-  my_putstr("\nlil_shell $> ", 1);
+  my_putstr("\nminishell $> ", 1);
 }

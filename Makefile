@@ -30,7 +30,7 @@ CFLAGS += -Wextra -Wall
 CFLAGS += -pedantic
 CFLAGS += -I./include
 
-NAME =	lil_shell
+NAME =	minishell
 
 RM =	rm -f
 
