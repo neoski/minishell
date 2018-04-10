@@ -1,4 +1,4 @@
-# lil-shell
+# minishell
 A mini valuable shell coded in C. 
 
 Builtins `cd`, `setenv`, `unsetenv`, `env`, `exit`, the pipes '|',
