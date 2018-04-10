@@ -3,7 +3,7 @@ A minimum valuable shell coded in C.
 
 <img alt="Quick minishell demo" src="https://thumbs.gfycat.com/DisguisedFrighteningDairycow-size_restricted.gif" height="370px"/>
 
-Builtins `cd`, `setenv`, `unsetenv`, `env`, `exit`, the pipes '|',
+Builtins `cd`, `setenv`, `unsetenv`, `env`, `exit`, the pipes `|`,
 the redirections `<`, `>`, `>>`, `<<`, the `;`, `aliases` 
 and the execution of standard commands (e.g : `ls`) are implemented.
 
