@@ -23,6 +23,6 @@ gcc
 
 **Author :** Sebastien S. 
 
-**Github repository :** https://github.com/neoski/lil-shell
+**Github repository :** https://github.com/neoski/minishell
 
 **Made in march 2014.**
