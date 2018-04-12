@@ -27,4 +27,4 @@ gcc
 
 **Github repository :** https://github.com/neoski/minishell
 
-**Made during my studies in march 2015.**
+Made during my studies in march 2015.
